@@ -1,0 +1,12 @@
+.journal-add {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-family: Gerbera;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 18px; 
+}

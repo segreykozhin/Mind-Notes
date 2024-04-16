@@ -1,0 +1,49 @@
+.journal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form-label {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    min-width: 150px;
+}
+
+.form-row {
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    border: none;
+    border-bottom: 1px solid #3B4394;
+    background:none;
+    color: #3B4394;
+    font-family: Gerbera;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+}
+
+.invalid {
+    border: 1px solid red;
+    background: rgb(113, 13, 13);
+}
+
+.delete {
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding: 0;
+    /* height: 40px;
+    width: 40px; */
+}
+
+.delete:hover {
+    background-color: #E4E6F6;
+    border-radius: 40%;
+}

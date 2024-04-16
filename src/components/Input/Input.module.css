@@ -1,0 +1,22 @@
+.input {
+    border: none;
+    border-bottom: 1px solid #3B4394;
+    background:none;
+    color: #3B4394;
+    font-family: Gerbera;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+}
+
+.input-title {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.invalid {
+    border: 1px solid red;
+    background: rgb(113, 13, 13);
+}

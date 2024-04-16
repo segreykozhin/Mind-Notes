@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Gerbera Light"; 
+  src: url("../public/Gerbera-Light.otf") format("otf"); 
+  font-style: light; 
+  font-weight: light; 
+} 
+
+:root {
+  font-family: Gerbera, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #3B4394;;
+  background-color: #FFFFF2;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+
+}
+
