@@ -1,0 +1,11 @@
+.select {
+	padding: 10px;
+	background: none;
+	border: 1px solid #3B4394;;
+    border-radius: 10px;
+    color: #3B4394;
+    font-family: Gerbera;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+}
